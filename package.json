@@ -1,0 +1,14 @@
+{
+	"name": "is-flexi",
+	"version": "1.0.0",
+	"description": "Determine from entry point path whether specific resize is flexi",
+	"main": "src/index.js",
+	"repository": "https://github.com/nebe-app/is-flexi.git",
+	"author": "Patrik Janosdeak <patrik.janosdeak@isobar.com>",
+	"license": "MIT",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.10",
+		"fs": "^0.0.1-security",
+		"fs-extra": "^10.0.0"
+	}
+}
